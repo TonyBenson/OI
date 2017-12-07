@@ -7,3 +7,4 @@ Oh.....now I see.
 def total_pay(hours, rate):
     total_pay = hours * rate
     return total_pay
+Clearly it's markdown, not code.
